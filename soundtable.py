@@ -1,3 +1,6 @@
+#@orga=GoTronic
+#@author=Sylvain G.
+
 import MPR121
 from gpiozero import RGBLED
 import subprocess
