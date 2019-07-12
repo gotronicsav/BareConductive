@@ -1,3 +1,6 @@
+#@orga=GoTronic
+#@author=Sylvain G.
+
 import RPi.GPIO as GPIO
 import time
 import MPR121
