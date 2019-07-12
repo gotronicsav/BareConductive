@@ -1,3 +1,6 @@
+//@orga=GoTronic
+//@author=Sylvain G.
+
 #include <MPR121.h>
 #include <Wire.h>
 #define MPR121_ADDR 0x5C
